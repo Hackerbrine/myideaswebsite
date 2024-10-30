@@ -33,4 +33,4 @@ https://www.canva.com/design/DAGU1yPOyAE/NiPiXqU1cGwsucjJLZILnQ/edit?utm_content
     </div>
 </body>
 </html>
-[https://github.com/Hackerbrine/myideaswebsite](https://youtu.be/b2Y5FIBIP7s)
+(https://youtu.be/b2Y5FIBIP7s)
