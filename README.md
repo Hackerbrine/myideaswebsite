@@ -2,69 +2,7 @@
 https://www.canva.com/design/DAGU1yPOyAE/NiPiXqU1cGwsucjJLZILnQ/edit?utm_content=DAGU1yPOyAE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Revolutionizing Digital Security with AI and Blockchain</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            margin: 0;
-            padding: 0;
-            background-color: #f4f4f4;
-        }
-        .container {
-            width: 80%;
-            margin: auto;
-            overflow: hidden;
-        }
-        header {
-            background: #333;
-            color: #fff;
-            padding-top: 30px;
-            min-height: 70px;
-            border-bottom: #77aaff 3px solid;
-        }
-        header a {
-            color: #fff;
-            text-decoration: none;
-            text-transform: uppercase;
-            font-size: 16px;
-        }
-        header ul {
-            padding: 0;
-            list-style: none;
-        }
-        header li {
-            display: inline;
-            padding: 0 20px 0 20px;
-        }
-        .main {
-            padding: 20px;
-            background: #fff;
-            margin-top: 20px;
-        }
-        .main h1 {
-            text-align: center;
-            color: #333;
-        }
-        .main p {
-            line-height: 1.6;
-        }
-        .wallet-section {
-            margin-top: 20px;
-            padding: 20px;
-            background: #e2e2e2;
-            border-radius: 5px;
-        }
-        .wallet-section h2 {
-            margin-top: 0;
-        }
-        .wallet-section p {
-            font-size: 18px;
-            word-break: break-all;
-        }
-    </style>
+
 </head>
 <body>
     <header>
